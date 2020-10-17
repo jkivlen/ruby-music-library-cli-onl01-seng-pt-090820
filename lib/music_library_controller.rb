@@ -10,11 +10,7 @@ class MusicLibraryController
     input = ""
     
     while input != "exit"
-    
-    
-    
-    
-    puts "Welcome to your music library!"
+      puts "Welcome to your music library!"
   
   end
   
