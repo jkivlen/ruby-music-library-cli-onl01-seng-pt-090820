@@ -27,7 +27,9 @@ class Artist
     artist
   end
   
-  
+  def songs
+    @songs
+  end
   
   
   
