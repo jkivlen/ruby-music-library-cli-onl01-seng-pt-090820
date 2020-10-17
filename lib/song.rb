@@ -33,7 +33,7 @@ class Song
   
   def artist=(artist)
     @artist = artist
-    songs << 
+    artist.add_song
   end
   
  
