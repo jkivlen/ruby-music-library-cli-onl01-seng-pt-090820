@@ -1,6 +1,6 @@
 class MusicImporter
   
-  attr_reader
+  attr_reader :path
   
   
   def initialize(path)
