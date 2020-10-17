@@ -38,6 +38,7 @@ class Artist
   
   def genres
     self.songs.collect { |songs| songs.genre }
+    unless self.genre.include?
   end
   
   
